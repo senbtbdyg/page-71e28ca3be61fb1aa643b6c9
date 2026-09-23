@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "9597257d77563dd3528d4040",
+  "owner": "senbtbdyg",
+  "repo": "page-71e28ca3be61fb1aa643b6c9",
+  "title": "遥遥领先",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "71e28ca3be61fb1aa643b6c9",
+      "a": "遥遥领先",
+      "b": "机场官网线路发布页",
+      "entity": "遥遥领先",
+      "brand": "遥遥领先",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "6c987cc65ab36ee5f970dccb7f8319c344cfd5799c45e81f9adab5c06d8d0eab",
+      "content": {
+        "primary_entity": "遥遥领先",
+        "keyword1": "遥遥领先",
+        "keyword2": "机场官网线路发布页",
+        "content": {
+          "AI_DESCRIPTION": "，围绕设备与订阅周期提供了一个清晰的三档方案：基础版每月15元、100GB流量与3台设备，适合轻度使用；旗舰版每月35元、300GB流量与5台设备，支持IPLC专线游戏加速；团队版每月85元、1000GB流量与20台设备，附带企业定制路由与专属客户经理。年付更省，按需选档即可。",
+          "AI_HERO_SUBTITLE": "三档流量，按需选配",
+          "AI_HERO_INTRO": "遥遥领先提供基础版、旗舰版与团队版三档订阅，分别覆盖100GB、300GB与1000GB月流量，支持3台、5台与20台设备同时在线。年付价格更省，适合从轻度流媒体到团队高带宽场景的各类需求。",
+          "AI_VISUAL_TITLE": "遥遥领先 三档订阅",
+          "AI_HIGHLIGHT_1": "100GB至1000GB月流量",
+          "AI_HIGHLIGHT_2": "3台至20台设备在线",
+          "AI_HIGHLIGHT_3": "IPLC专线游戏加速",
+          "AI_FEATURES_TITLE": "订阅特点",
+          "AI_FEATURES_INTRO": "从流量、设备数到线路类型，三档方案对应不同使用强度，可按日常需求直接匹配。",
+          "AI_FEATURE_TITLE_1": "按流量选档",
+          "AI_FEATURE_TEXT_1": "基础版100GB适合单人与轻度追剧，旗舰版300GB兼顾多设备与游戏，团队版1000GB应对高带宽需求。",
+          "AI_FEATURE_TITLE_2": "按设备数选档",
+          "AI_FEATURE_TEXT_2": "基础版支持3台设备，旗舰版5台，团队版20台，手机、平板与电脑可按需添加。",
+          "AI_FEATURE_TITLE_3": "按周期付费",
+          "AI_FEATURE_TEXT_3": "月付与年付灵活选择，年付可省下一部分费用，长用更划算。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLIENTS_INTRO": "移动端可选用 Shadowrocket、Clash for Android 等常见客户端，桌面端可用 Clash Verge、v2rayN 等，具体兼容情况请以对应客户端文档为准。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_PLANS_INTRO": "基础版每月15元或年付150元，旗舰版每月35元或年付350元，团队版每月85元或年付850元。流量、设备数与线路逐步升级，按使用强度选即可。",
+          "AI_GUIDE_TITLE": "使用步骤",
+          "AI_GUIDE_INTRO": "订阅配置按选定服务、核对适配要求、导入客户端三个环节完成。",
+          "AI_STEP_TITLE_1": "选择服务",
+          "AI_STEP_TEXT_1": "根据月流量和设备数量，在基础版、旗舰版与团队版之间选定一档订阅。",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TEXT_2": "确认所用设备与操作系统，在客户端列表中查找对应的推荐客户端。",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_STEP_TEXT_3": "依照客户端文档导入订阅链接，完成节点选择与连接测试。",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "三档套餐的主要区别是什么？",
+          "AI_FAQ_ANSWER_1": "主要区别在月流量、设备数与线路类型：基础版100GB/3台，旗舰版300GB/5台并支持IPLC专线，团队版1000GB/20台并含企业定制路由。",
+          "AI_FAQ_QUESTION_2": "年付比月付省多少？",
+          "AI_FAQ_ANSWER_2": "基础版年付150元、旗舰版年付350元、团队版年付850元，相比按月支付可节省约两个月费用，长期使用更划算。",
+          "AI_FAQ_QUESTION_3": "如何切换套餐或调整流量？",
+          "AI_FAQ_ANSWER_3": "可根据使用情况在续费时选择新的档位，具体升级方式与生效时间请参照应用内的续费说明。",
+          "AI_FAQ_QUESTION_4": "支持哪些客户端导入订阅？",
+          "AI_FAQ_ANSWER_4": "移动端常用 Shadowrocket、Clash for Android，桌面端常用 Clash Verge、v2rayN 等，导入方式基本为粘贴订阅链接后更新节点。",
+          "AI_FAQ_QUESTION_5": "可以同时在多台设备上使用吗？",
+          "AI_FAQ_ANSWER_5": "可以，但不超过所选套餐的设备数上限：基础版3台、旗舰版5台、团队版20台，超出后需减少在线设备数。",
+          "AI_CLOSING_TITLE": "选对档位，畅快使用",
+          "AI_CLOSING_TEXT": "根据日常流量与设备数量选定套餐，按客户端文档完成订阅配置即可开始使用。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "blczwb.cn",
+    "host": "blczwb.cn"
+  },
+  "file_hashes": {
+    "index.html": "ca11659a8f3a7295e9f4b612010df55ed78104de37d9aa8d89530e18d7a80606",
+    "sitemap.xml": "10d84d68d1745e301027f09ca84f5aa462f3f5b43a1ffc6ce4bd4f66c37b53b2",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "30536ff6de5432b4854234ae23b477738a7f6353f2f1043a06e06323ef49a949",
+    "robots.txt": "3661f197af55fc997f14da1978468d01744abb04e69cf6cc520bca1773ef8164",
+    "154c563d9daa4b2e949c84ddb057e884.txt": "7de3efccb5dadfaff31e13e81cfc1f35317c81c5cc026ec77d69dba6ca3e40f8"
+  },
+  "revision": "73958e557cad771451b507a969f4201a34ac9b9bf1555b26de1ca3391ad836d2"
+}
